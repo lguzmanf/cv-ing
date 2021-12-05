@@ -40,7 +40,7 @@ hr {
 
 p{
   line-height: 2;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 a{
@@ -68,7 +68,6 @@ a:hover{
 }
 
 .profile-conteiner {
-  width: 50rem;
   position: relative;
   margin: 5rem 0 ;
 }
