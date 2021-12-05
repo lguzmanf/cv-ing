@@ -7,14 +7,15 @@ body {
 }
 
 h1 {
-  color: #11999E;
+  /*#1597E5 #5089C6*/
+  color: #1597E5;
   font-size: 6rem;
   margin:0;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #11999E;
+  color: #1597E5;
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   font-weight: normal;
@@ -23,7 +24,7 @@ h2 {
 }
 
 h3 {
-  color: #66BFBF;
+  color: #1597E5;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
 }
@@ -41,7 +42,7 @@ ul{
 
 hr {
   border: none;
-  border-bottom: 0.375rem dotted #EAF6F6;
+  border-bottom: 0.375rem dotted #B5DEFF;
   width: 7rem;
   margin: 5rem auto;
 }
@@ -51,17 +52,13 @@ p{
 }
 
 a{
-  color: #11999E;
+  color: #1597E5;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
 
 a:hover{
-  color:#66BFBF;
-}
-
-.icons{
-  color:#11999E;
+  color:#B5DEFF;
 }
 
 .top-container {
@@ -77,10 +74,11 @@ a:hover{
 }
 
 .img-left-top{
-  width: 10rem;
+  width: 9rem;
   display: block;
-  position: relative;
-  left:20rem;
+  margin:auto auto auto 20rem;
+
+
 }
 
 .civil {
@@ -180,7 +178,7 @@ a:hover{
 }
 
 .footer-link{
-  color: #11999E;
+  color: #5089C6;
   font-family: 'Montserrat', sans-serif;
   margin: 0.6rem 1.3rem;
   text-decoration: none;
@@ -192,7 +190,6 @@ a:hover{
 
 .copyright{
 padding-top: 1.3rem;
-
 font-size: 0.8rem;
 font-family: 'Montserrat', sans-serif;
 }
