@@ -67,8 +67,11 @@ a:hover{
 }
 
 .profile-conteiner {
+  width: 50rem;
   position: relative;
-  margin: 5rem 0 ;
+  margin: 0 auto;
+
+
 }
 
 .img-profile {
@@ -77,19 +80,26 @@ a:hover{
 }
 
 .intro {
-  width: 50rem;
+
   margin: auto;
   text-align: justify;
   line-height: 2;
 }
 
 .education-container {
+  width: 50rem;
   position: relative;
-  margin: 3rem;
+  margin: 0 auto;
+}
+
+.competencias-container {
+  width: 50rem;
+  position: relative;
+  margin: 0 auto;
 }
 
 .education{
-  width: 50rem;
+
   margin: 3rem auto;
   text-align: left;
   line-height: 1;
