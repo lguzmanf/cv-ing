@@ -96,13 +96,13 @@ a:hover{
 }
 
 .img-left{
-  width: 15%;
+  width: 9rem;
   float:left;
   margin-right: 40px;
 }
 
 .img-right{
-  width: 15%;
+  width: 9rem;
   float:right;
   margin-right: 40px;
 }
@@ -116,7 +116,7 @@ a:hover{
 }
 
 .img-exp-proy{
-  width: 15%;
+  width: 9rem;
 
 }
 
